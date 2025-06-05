@@ -1,0 +1,2 @@
+pydobotplus==0.1.2
+pyserial==3.4
